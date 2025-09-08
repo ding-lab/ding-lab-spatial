@@ -48,4 +48,18 @@ Then copy the url from step 1 and paste it in your browser, it should look somet
   + Basic cell typing workflows.
     - For one section
     - For a whole slide with multiple sections
+   
+
+### Basic image manipulation
+
+**Notebook**: [basic_image_manipulation](https://github.com/estorrs/ding-lab-spatial/blob/main/multiplex_imaging/basic_image_manipulation.ipynb)
+
+**Description**
+
+Covers basic image manipulations, including:
+- Reading of OME-TIF metadata
+- Image viewing
+
+For more information on manipulation of arrays in python, see [numpy](https://numpy.org/).
+
 

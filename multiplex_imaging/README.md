@@ -19,13 +19,13 @@ Below are some example commands to run jupyter from the lab cluster with this no
 
 Wherever you see `NODE` below that is the name of whatever node you are running the notebook on (i.e. sequoia, tortugas, etc.).
 
-1. On lab cluster NODE
+1. On lab cluster `NODE`
 ```bash
 cd multiplex-imaging
 jupyter notebook --port 12121 --no-browser --ip="0.0.0.0" # port could be any number, using 12121 here
 ```
 
-2. On your local machine. Remember to replace NODE with the correct name, USERNAME with your username, and the port number if you are using a different port.
+2. On your local machine. Remember to replace NODE with the correct name, USERNAME with your username, and also the port number if you are using a different port.
 ```bash
 ssh -L 12121:NODE:12121 -N USERNAME@katmai.wusm.wustl.edu
 ```
@@ -36,7 +36,7 @@ Then copy the url from step 1 and paste it in your browser, it should look somet
 
 ### Image conversion, segmentation, and cell typing
 
-**[notebook]()**
+**Notebook**: [multiplex_imaging_analysis](https://github.com/estorrs/ding-lab-spatial/blob/main/multiplex_imaging/multiplex_imaging_analysis.ipynb)
 
 **Description**
 
@@ -48,3 +48,18 @@ Then copy the url from step 1 and paste it in your browser, it should look somet
   + Basic cell typing workflows.
     - For one section
     - For a whole slide with multiple sections
+   
+
+### Basic image manipulation
+
+**Notebook**: [basic_image_manipulation](https://github.com/estorrs/ding-lab-spatial/blob/main/multiplex_imaging/basic_image_manipulation.ipynb)
+
+**Description**
+
+Covers basic image manipulations, including:
+- Reading of OME-TIF metadata
+- Image viewing
+
+For more information on manipulation of arrays in python, see [numpy](https://numpy.org/).
+
+

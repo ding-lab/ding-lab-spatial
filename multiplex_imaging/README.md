@@ -10,7 +10,7 @@ To create environment with conda and jupyter
 ```bash
 conda create -n multiplex-imaging -c conda-forge "python==3.9" jupyter jupyter_contrib_nbextensions -y
 conda activate multiplex-imaging
-pip install deepcell git+https://github.com/estorrs/multiplex-imaging-pipeline.git
+pip install deepcell harmonypy git+https://github.com/estorrs/multiplex-imaging-pipeline.git
 ```
 
 ## Launching notebooks on the lab cluster
@@ -61,5 +61,6 @@ Covers basic image manipulations, including:
 - Image viewing
 
 For more information on manipulation of arrays in python, see [numpy](https://numpy.org/).
+
 
 

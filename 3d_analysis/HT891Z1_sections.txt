@@ -1,0 +1,5 @@
+section_id	position	dtype	filepath																	
+HT891Z1-U1	0	xenium	/diskmnt/primary/Xenium/data/20240524__182517__20240524_HTAN_prostate_serial/output-XETG00122__0034184__HT891Z1-S2H3Fp1U1__20240524__182554																	
+HT891Z1-U2	5	visiumhd	/diskmnt/primary/Spatial_Transcriptomics/VisiumHD_run/FFPE/SpacerangerOut/HTAN/PCa/HT891Z1-S2H3Fp1/outs																	
+HT891Z1-U4	10	he	/diskmnt/Users2/estorrs/ding-lab-spatial/data/registration_example/raw/HT891Z1_U4_he.ome.tif																	
+HT891Z1-U14	65	multiplex	/diskmnt/primary/CODEX/HTAN/20240723_Prostate_serial_HT891Z1-S2H3Fp1_Codex1/HT891Z1-S2H3Fp1_U14__20240723.ome.tiff																	

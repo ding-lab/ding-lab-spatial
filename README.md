@@ -5,11 +5,11 @@ Various spatial analyses for the Ding lab.
 
 Multiplex imaging conversion, segmentation, and cell typing.
 
-### **[omero](https://github.com/estorrs/ding-lab-spatial/tree/main/omero)**
+### **[Omero](https://github.com/estorrs/ding-lab-spatial/tree/main/omero)**
 
 Uploading to omero image server.
 
-### **[3d_analysis](https://github.com/estorrs/ding-lab-spatial/tree/main/3d_analysis)**
+### **[3d analysis](https://github.com/estorrs/ding-lab-spatial/tree/main/3d_analysis)**
 
 3D registration and analysis
 

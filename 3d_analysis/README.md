@@ -2,11 +2,7 @@
 
 ## Installation
 
-Requires:
-- Python
-- [multiplex-imaging-pipeline](https://github.com/estorrs/multiplex-imaging-pipeline)
-
-To create environment with conda and jupyter
+To create environment with conda
 ```bash
 conda create -n 3d-analysis -c conda-forge python jupyter jupyter_contrib_nbextensions "imagecodecs>=2022.7.27" scikit-image scikit-learn einops squidpy scanpy tifffile ome-types pyyaml -y
 conda activate 3d-analysis
@@ -41,6 +37,7 @@ Then copy the url from step 1 and paste it in your browser, it should look somet
 
 Covers registration procedure for serial section data
    
+
 
 
 

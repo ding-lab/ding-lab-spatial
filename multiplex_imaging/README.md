@@ -45,9 +45,7 @@ Then copy the url from step 1 and paste it in your browser, it should look somet
   + Cell segmentation of OME-TIF
   + Cell feature generation
   + Isolation of sections. (Useful for slides with many sections).
-  + Basic cell typing workflows.
-    - For one section
-    - For a whole slide with multiple sections
+  + Basic cell typing workflow.
    
 
 ### Basic image manipulation
@@ -61,6 +59,7 @@ Covers basic image manipulations, including:
 - Image viewing
 
 For more information on manipulation of arrays in python, see [numpy](https://numpy.org/).
+
 
 
 

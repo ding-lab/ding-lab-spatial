@@ -35,9 +35,14 @@ Then copy the url from step 1 and paste it in your browser, it should look somet
 
 **Description**
 
-Covers registration procedure for serial section data
-   
+Covers registration procedure for serial section data.
 
+## Annotation of 3D paths
 
+**Notebook**: [3D path annotation](https://github.com/estorrs/ding-lab-spatial/blob/main/3d_analysis/3D_path_annotation.ipynb)
 
+**Description**
 
+Covers how to annotate regions on registered 3D sections.
+
+Also shows how to get cells/transcripts that fall within a region and calculate mean expression across a region.

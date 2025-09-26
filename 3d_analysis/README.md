@@ -43,7 +43,8 @@ Covers registration procedure for serial section data.
 
 **Description**
 
-Covers how to annotate regions on registered 3D sections.
+Covers how to annotate regions on registered 3D sections and analyze them.
 
-Also shows how to get cells/transcripts that fall within a region and calculate mean expression across a region.
+Also shows how to get cells/transcripts that fall within a region, calculate mean expression across a region, and visualize paths.
+
 

@@ -31,7 +31,7 @@ Then copy the url from step 1 and paste it in your browser, it should look somet
 
 ### Registration of serial sections
 
-**Notebook**: [serial_section_registration](https://github.com/estorrs/ding-lab-spatial/blob/main/3d_analysis/serial_section_registration.ipynb)
+**Notebook**: [serial_section_registration](https://github.com/ding-lab/ding-lab-spatial/blob/main/3d_analysis/serial_section_registration.ipynb)
 
 **Description**
 
@@ -39,12 +39,13 @@ Covers registration procedure for serial section data.
 
 ### Annotation of 3D paths
 
-**Notebook**: [3D path annotation](https://github.com/estorrs/ding-lab-spatial/blob/main/3d_analysis/3D_path_annotation.ipynb)
+**Notebook**: [3D path annotation](https://github.com/ding-lab/ding-lab-spatial/blob/main/3d_analysis/3D_path_annotation.ipynb)
 
 **Description**
 
 Covers how to annotate regions on registered 3D sections and analyze them.
 
 Also shows how to get cells/transcripts that fall within a region, calculate mean expression across a region, and visualize paths.
+
 
 

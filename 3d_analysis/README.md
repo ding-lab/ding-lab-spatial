@@ -37,6 +37,8 @@ Then copy the url from step 1 and paste it in your browser, it should look somet
 
 Covers registration procedure for serial section data.
 
+**Important**: The version of Fiji/ImageJ used to run bigwarp in this notebook was 2.14.0. In newer versions, some of the BigWarp interface has changed. The main change was a change in the prompt box when saving the DDF warp field. In the video, it shows inputing 3 axis shapes, while in newer versions of BigWarp, you will only need to change the height and width. Talk to Evan for more details, he has run BigWarp with the new version of Fiji.
+
 ### Annotation of 3D paths
 
 **Notebook**: [3D path annotation](https://github.com/ding-lab/ding-lab-spatial/blob/main/3d_analysis/3D_path_annotation.ipynb)
@@ -46,6 +48,7 @@ Covers registration procedure for serial section data.
 Covers how to annotate regions on registered 3D sections and analyze them.
 
 Also shows how to get cells/transcripts that fall within a region, calculate mean expression across a region, and visualize paths.
+
 
 
 
